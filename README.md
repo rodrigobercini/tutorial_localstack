@@ -66,7 +66,7 @@ $ podman run -it  -p 4567-4599:4567-4599 -p 8080:8080 localstack/localstack
 Se você tiver `docker`, pode usar o `docker-composer`.
 
 ```
-ersion: '2.1'
+version: '2.1'
 services:
 ...
   localstack:
